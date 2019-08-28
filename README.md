@@ -1,11 +1,10 @@
 
-# E-Commerce Shopping Cart  
-A simple E-commerce website.
+
   
-# E-Commerce-Website-Using-PHP
+# E-Commerce Website Using PHP
 
 ## Summary
-Hello friends, This is my first full e-commerce project. This is free. Anybody can use.
+Hello friends, This is e-commerce website that has a shopping cart. This is free. Anybody can use.
 
 ## Platform Used
 ### Front-End
@@ -39,7 +38,4 @@ Hello friends, This is my first full e-commerce project. This is free. Anybody c
 ## Conclusion
 There are also many more feature which are not in the list. Feel free to use this project
 
-### Set Up
-
-Use XAMPP 5.6 for this project. 
 
