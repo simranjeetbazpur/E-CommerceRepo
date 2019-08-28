@@ -1,8 +1,9 @@
 
 # E-Commerce Website Using PHP
+
 <img src="https://miro.medium.com/max/1018/1*eUFJ5BNpw3xSZxK3BhVHxw.jpeg"/>
 
-## Summary
+
 This is e-commerce website that has a shopping cart. This is free. Anybody can use.
 
 ## Platform Used
